@@ -23,7 +23,7 @@ email: deepanshu.iitk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am always excited to get in touch with folks with similar interests. 
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://deepanshugupta.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dpanshu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: me_deepanshu
 github_username:  dpanshu
 linkedin_username: me_deepanshu
