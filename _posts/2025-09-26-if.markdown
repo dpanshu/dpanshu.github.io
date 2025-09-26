@@ -4,7 +4,7 @@
 
 layout: post
 title: "If you would see clearly"
-date: 2025-09-26 13:20:34 -0700
+date: 2025-09-26 11:20:34 -0700
 
 ---
 
