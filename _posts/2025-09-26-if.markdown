@@ -11,8 +11,6 @@ date: 2025-09-26 13:20:34 -0700
 What if "[If](https://www.poetryfoundation.org/poems/46473/if---)" matched [Mental Models](https://fs.blog/mental-models/)? Here is my interpretation, with ChatGPT as my helper to make rewrite it poetically. 
 Credits to respective authors for the inspiration and content. 
 
---- 
-
 
 If you can know the map is not the land,
 And redraw truth with steady, patient hand;
